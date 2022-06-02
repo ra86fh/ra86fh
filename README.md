@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ra86fh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
+- 👀 I love coding
+- 🌱 C# - HTML - CSS
 
 <!---
 ra86fh/ra86fh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
